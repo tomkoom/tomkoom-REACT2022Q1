@@ -105,3 +105,6 @@ dist
 
 # build files
 react-components
+
+# ds store
+.DS_Store
